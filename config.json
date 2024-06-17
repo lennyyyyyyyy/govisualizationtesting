@@ -1,0 +1,8 @@
+{
+    "packages": ["sente"],
+    "js-modules": {
+        "main": {
+            "./index.mjs": "jsgame"
+        }
+    }
+}
