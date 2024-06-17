@@ -21,4 +21,7 @@ function overlay_position(board, position) {
     }
 }
 
+function overlay_statistics(board, statistics) {
+}
+
 export { setup_board, clear_board, overlay_position, overlay_statistics }

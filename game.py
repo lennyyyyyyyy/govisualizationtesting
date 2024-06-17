@@ -5,3 +5,4 @@ from pyweb import pydom
 
 game = sente.Game()
 jsgame.setup_board()
+print("hallo")
